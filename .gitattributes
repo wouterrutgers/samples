@@ -1,1 +1,2 @@
 docs/sample-200mb.zip filter=lfs diff=lfs merge=lfs -text
+docs/sample-100mb.zip filter=lfs diff=lfs merge=lfs -text
